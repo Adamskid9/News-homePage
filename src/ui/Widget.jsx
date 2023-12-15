@@ -11,5 +11,5 @@ function Widget({tittle,text1,text2,num,img}) {
         </div>
     )
 }
-
+// test me
 export default Widget

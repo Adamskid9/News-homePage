@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { HiMenuAlt1, HiAnnotation, HiX } from "react-icons/hi";
+import { HiMenuAlt1, HiX } from "react-icons/hi";
 
 function Header() {
     const [isOpen,setIsOpen] = useState(false);

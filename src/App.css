@@ -1,0 +1,26 @@
+.text{
+    color: hsl(236, 13%, 42%);
+}
+.rightSide{
+   background-color: hsl(240, 100%, 5%);
+}
+.num{
+    color: hsl(233, 8%, 79%);
+}
+.left{
+    color: hsl(236, 13%, 42%);
+}
+.header{
+    color: hsl(240, 100%, 5%);
+}
+.btn:hover{
+    background-color: hsl(240, 100%, 5%);
+}
+.user{
+    color:hsl(240, 100%, 5%)     ;
+}
+.ice{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    
+}

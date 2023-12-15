@@ -14,6 +14,8 @@ function Header() {
     
     const li = `hover:text-red-500 hover:rounded-lg li transition duration-500 cursor-pointer p-1`;
 
+
+
     return (
     <>
         <div className="flex justify-between py-1 mb-8">
@@ -25,6 +27,7 @@ function Header() {
                 <li className={li}>Trending</li>
                 <li className={li}>Catergories</li>
             </ul>
+            
             
             <div  className="cursor-pointer flex sm:hidden items-center justify-center  ">
                 {!isOpen&&<div onClick={openMenu}><HiMenuAlt1 className="text-3xl"/></div>}

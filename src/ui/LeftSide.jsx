@@ -1,7 +1,7 @@
 function LeftSide() {
     return (
            <div className="basis-4/5 mb-5">
-             <img className="h-[350px] w-full"  src="/public/image-web-3-desktop.jpg" alt=""/>
+             <img className="h-[350px] w-full"  src="/image-web-3-desktop.jpg" alt=""/>
 
              <div className="flex mt-10 justify-between space-y-5 md:space-y-0 flex-col md:flex-row">
 
@@ -24,7 +24,7 @@ function LeftSide() {
               </div>
             </div>
 
-            // test me
+
     )
 }
 
